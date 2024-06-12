@@ -1,16 +1,20 @@
 # PubChat Web-Application
 
-## Prerequisites (Need to Download)
+PubChat is a real-time chat application where users can sign up, log in, and join chat rooms to communicate with each other.
+
+## Features
+
+- User Authentication (Sign up, Log in, Log out)
+- Real-time Messaging
+- Create and Join Chat Rooms
+- Google OAuth Authentication
+- Edit and Delete Messages
+- Message Search
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 - [MongoDB](https://www.mongodb.com/)
-
-## Guide
-
-### 1. Clone the repository to your local machine
-
-You can either manually download a zip file or clone the repository using the following commands:
-
-```bash
-git clone <repository-link>
-cd <repository-directory>
